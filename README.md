@@ -1,2 +1,2 @@
 <h1>Diagram Class</h1>
-![diagramAplikasiRentalMobil](https://github.com/user-attachments/assets/79ee4ef7-9b41-4c42-b54a-a627df42d697)
+![image](https://github.com/user-attachments/assets/bd73fb58-6aeb-4581-a286-6b79bee631b5)
